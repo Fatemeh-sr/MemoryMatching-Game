@@ -1,0 +1,38 @@
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\p -1.exe
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\p -1.deps.json
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\p -1.runtimeconfig.json
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\p -1.runtimeconfig.dev.json
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\p -1.dll
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\ref\p -1.dll
+C:\Users\fatem\source\repos\p -1\p -1\bin\Debug\net5.0-windows\p -1.pdb
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p__1.Form1.resources
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.csproj.GenerateResource.cache
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.AssemblyInfoInputs.cache
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.AssemblyInfo.cs
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.csproj.CoreCompileInputs.cache
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.dll
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\ref\p -1.dll
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.pdb
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.genruntimeconfig.cache
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p -1.csproj.AssemblyReference.cache
+C:\Users\fatem\source\repos\p -1\p -1\obj\Debug\net5.0-windows\p__1.Properties.Resources.resources
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\p -1.exe
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\p -1.deps.json
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\p -1.runtimeconfig.json
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\p -1.runtimeconfig.dev.json
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\p -1.dll
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\ref\p -1.dll
+C:\Users\fatem\Documents\Csharp\p -1\p -1\bin\Debug\net5.0-windows\p -1.pdb
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.csproj.AssemblyReference.cache
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p__1.Form1.resources
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p__1.Properties.Resources.resources
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.csproj.GenerateResource.cache
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.AssemblyInfoInputs.cache
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.AssemblyInfo.cs
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.csproj.CoreCompileInputs.cache
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.dll
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\ref\p -1.dll
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.pdb
+C:\Users\fatem\Documents\Csharp\p -1\p -1\obj\Debug\net5.0-windows\p -1.genruntimeconfig.cache
