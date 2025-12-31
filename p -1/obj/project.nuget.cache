@@ -1,8 +1,47 @@
 {
   "version": 2,
-  "dgSpecHash": "IPkzX2Fxp96fUKsnuegOlL6AgCi12OwMqRySKr9BoxDNe8jcugVzxAJtHCZFRti6Dyt3/0NaWtDLW0LaeCVljA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\fatem\\Documents\\Csharp\\p -1\\p -1\\p -1.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "dgSpecHash": "oYVzOyHZgmI=",
+  "success": false,
+  "projectFilePath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fatem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    }
+  ]
 }

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatem\\Documents\\Csharp\\p -1\\p -1\\p -1.csproj": {}
+    "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatem\\Documents\\Csharp\\p -1\\p -1\\p -1.csproj": {
+    "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatem\\Documents\\Csharp\\p -1\\p -1\\p -1.csproj",
+        "projectUniqueName": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
         "projectName": "p -1",
-        "projectPath": "C:\\Users\\fatem\\Documents\\Csharp\\p -1\\p -1\\p -1.csproj",
+        "projectPath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
         "packagesPath": "C:\\Users\\fatem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatem\\Documents\\Csharp\\p -1\\p -1\\obj\\",
+        "outputPath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\fatem\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -35,7 +34,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net5.0-windows7.0": {
@@ -46,10 +51,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -58,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
