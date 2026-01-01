@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj": {}
+    "D:\\VS code\\card matching game\\p -1\\p -1.csproj": {}
   },
   "projects": {
-    "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj": {
+    "D:\\VS code\\card matching game\\p -1\\p -1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
+        "projectUniqueName": "D:\\VS code\\card matching game\\p -1\\p -1.csproj",
         "projectName": "p -1",
-        "projectPath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
+        "projectPath": "D:\\VS code\\card matching game\\p -1\\p -1.csproj",
         "packagesPath": "C:\\Users\\fatem\\.nuget\\packages\\",
-        "outputPath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\obj\\",
+        "outputPath": "D:\\VS code\\card matching game\\p -1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatem\\AppData\\Roaming\\NuGet\\NuGet.Config"

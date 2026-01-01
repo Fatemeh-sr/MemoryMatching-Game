@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oYVzOyHZgmI=",
+  "dgSpecHash": "ndaYGk8mybY=",
   "success": false,
-  "projectFilePath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
+  "projectFilePath": "D:\\VS code\\card matching game\\p -1\\p -1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
@@ -17,18 +17,24 @@
       "code": "NU1301",
       "level": "Error",
       "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
       "libraryId": "Microsoft.NETCore.App.Ref"
     },
     {
       "code": "NU1301",
       "level": "Error",
       "message": "The local source 'D:\\numeric' doesn't exist.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
       "libraryId": "Microsoft.AspNetCore.App.Ref"
     },
     {
@@ -36,12 +42,6 @@
       "level": "Error",
       "message": "The local source 'D:\\numeric' doesn't exist.",
       "libraryId": "Microsoft.WindowsDesktop.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source 'D:\\numeric' doesn't exist.",
-      "libraryId": "Microsoft.NETCore.App.Ref"
     }
   ]
 }

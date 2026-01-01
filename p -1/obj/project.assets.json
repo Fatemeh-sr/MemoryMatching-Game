@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
+      "projectUniqueName": "D:\\VS code\\card matching game\\p -1\\p -1.csproj",
       "projectName": "p -1",
-      "projectPath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\p -1.csproj",
+      "projectPath": "D:\\VS code\\card matching game\\p -1\\p -1.csproj",
       "packagesPath": "C:\\Users\\fatem\\.nuget\\packages\\",
-      "outputPath": "D:\\VS code\\p -1\\MiniImageSlider\\p -1\\obj\\",
+      "outputPath": "D:\\VS code\\card matching game\\p -1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -103,18 +103,24 @@
       "code": "NU1301",
       "level": "Error",
       "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
       "libraryId": "Microsoft.NETCore.App.Ref"
     },
     {
       "code": "NU1301",
       "level": "Error",
       "message": "The local source 'D:\\numeric' doesn't exist.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
       "libraryId": "Microsoft.AspNetCore.App.Ref"
     },
     {
@@ -122,12 +128,6 @@
       "level": "Error",
       "message": "The local source 'D:\\numeric' doesn't exist.",
       "libraryId": "Microsoft.WindowsDesktop.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source 'D:\\numeric' doesn't exist.",
-      "libraryId": "Microsoft.NETCore.App.Ref"
     }
   ]
 }
