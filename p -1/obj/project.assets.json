@@ -97,12 +97,24 @@
       "code": "NU1301",
       "level": "Error",
       "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
       "libraryId": "Microsoft.WindowsDesktop.App.Ref"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "message": "The local source 'D:\\numeric' doesn't exist.",
       "libraryId": "Microsoft.AspNetCore.App.Ref"
     },
     {
@@ -115,18 +127,6 @@
       "code": "NU1301",
       "level": "Error",
       "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
-      "libraryId": "Microsoft.NETCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source 'D:\\numeric' doesn't exist.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source 'D:\\numeric' doesn't exist.",
       "libraryId": "Microsoft.WindowsDesktop.App.Ref"
     }
   ]
